@@ -11,6 +11,7 @@ public class TestGit {
 		System.out.println("FF");
 		System.out.println("EE");
 		System.out.println("GG");
+		System.out.println("HH");
 		
 	}
 
