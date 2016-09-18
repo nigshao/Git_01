@@ -10,6 +10,7 @@ public class TestGit {
 		System.out.println("DD");
 		System.out.println("FF");
 		System.out.println("EE");
+		System.out.println("HH");
 		
 	}
 
