@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("AA");
 		System.out.println("BB");
 		System.out.println("CC");
+		System.out.println("ningshao");
 		
 	}
 
